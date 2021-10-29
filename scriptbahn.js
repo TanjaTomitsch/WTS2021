@@ -1,7 +1,7 @@
 function ButtonMore() {
     console.log("more informations required")
     alert("loading more informations")
-    window.location.href='https://wts2021.azurewebsites.net/capacity/';
+    window.location.href='https://wts2021.azurewebsites.net/capacity';
 }
 
 function ButtonAlso() {
